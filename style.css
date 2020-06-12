@@ -30,6 +30,7 @@ body {
 
 .header div ul {
     list-style-type: none;
+    margin-top: 5px;
 }
 
 .header div ul li {
@@ -58,6 +59,7 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+    
 }
 
 .float-right {
